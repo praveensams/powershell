@@ -1,1 +1,1 @@
-echo "hiii" > c:\inetpub\wwwroot\index.html
+echo "hiii  sam in home" > c:\inetpub\wwwroot\index.html
